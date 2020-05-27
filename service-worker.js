@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ibike/precache-manifest.ffb7f833df48e2ea2874761773e7b904.js"
+  "/ibike/precache-manifest.70fe466448b75f33d1827d9a15ffaf9b.js"
 );
 
 self.addEventListener('message', (event) => {
