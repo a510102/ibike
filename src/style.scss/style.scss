@@ -1,0 +1,13 @@
+@import 'reset';
+@import 'header';
+@import 'searchbike';
+@import 'bikeList';
+@import 'pages';
+@import 'footer';
+
+*{
+    font-family: 'Merriweather', serif;
+}
+.App{
+    height: 100vh;
+}

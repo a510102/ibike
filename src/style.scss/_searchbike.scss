@@ -1,0 +1,27 @@
+.searchbike{
+    max-width: 1280px;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 0.5rem auto;
+    text-align: center;
+    .searchbike-select{
+        margin-right: 1rem;
+        width: 10rem;
+        height: 3rem;
+        font-size: 1.3rem;
+        border-radius: 0.5em;
+    }
+    .searchbike-btn{
+        height: 3rem;
+        width: 5rem;
+        font-size: 1.3rem;
+        border: none;
+        cursor: pointer;
+        border-radius: 0.5em;
+        &:hover{
+            background: #a1f099;
+        }
+    }
+}
