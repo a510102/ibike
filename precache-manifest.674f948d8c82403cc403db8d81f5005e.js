@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e322e1e384dc5076fa8a5a886e7420e",
+    "revision": "06a0e816d8622ce56c9d5f143415da24",
     "url": "/ibike/index.html"
   },
   {
-    "revision": "966a37232839ce23f040",
+    "revision": "7916a6a69c7b5067420f",
     "url": "/ibike/static/css/main.fc831eb0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibike/static/js/2.3e43d4b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "966a37232839ce23f040",
-    "url": "/ibike/static/js/main.6e8869e7.chunk.js"
+    "revision": "7916a6a69c7b5067420f",
+    "url": "/ibike/static/js/main.7081e098.chunk.js"
   },
   {
     "revision": "b78a782f7ecdda5514f8",
