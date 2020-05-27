@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ibike/static/css/main.fc831eb0.chunk.css",
-    "main.js": "/ibike/static/js/main.6e8869e7.chunk.js",
-    "main.js.map": "/ibike/static/js/main.6e8869e7.chunk.js.map",
+    "main.js": "/ibike/static/js/main.279bce87.chunk.js",
+    "main.js.map": "/ibike/static/js/main.279bce87.chunk.js.map",
     "runtime-main.js": "/ibike/static/js/runtime-main.943b1483.js",
     "runtime-main.js.map": "/ibike/static/js/runtime-main.943b1483.js.map",
     "static/js/2.3e43d4b1.chunk.js": "/ibike/static/js/2.3e43d4b1.chunk.js",
     "static/js/2.3e43d4b1.chunk.js.map": "/ibike/static/js/2.3e43d4b1.chunk.js.map",
     "index.html": "/ibike/index.html",
-    "precache-manifest.1cb387be09d1ef3a2203c03411032884.js": "/ibike/precache-manifest.1cb387be09d1ef3a2203c03411032884.js",
+    "precache-manifest.ffb7f833df48e2ea2874761773e7b904.js": "/ibike/precache-manifest.ffb7f833df48e2ea2874761773e7b904.js",
     "service-worker.js": "/ibike/service-worker.js",
     "static/css/main.fc831eb0.chunk.css.map": "/ibike/static/css/main.fc831eb0.chunk.css.map",
     "static/js/2.3e43d4b1.chunk.js.LICENSE.txt": "/ibike/static/js/2.3e43d4b1.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.943b1483.js",
     "static/js/2.3e43d4b1.chunk.js",
     "static/css/main.fc831eb0.chunk.css",
-    "static/js/main.6e8869e7.chunk.js"
+    "static/js/main.279bce87.chunk.js"
   ]
 }
